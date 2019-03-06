@@ -5,6 +5,7 @@
 		"code": 1,
 		"version": "1.0.0",
 		"intro": "版本的简介",
+		"host":"http://bible.vip",			
 		"downUrl": "软件的下载地址",
 		"pubTime": 1551841473382
 	}
