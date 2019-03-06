@@ -3,8 +3,7 @@
 	"msg": "成功",
 	"data": {
 		"type": 0,
-		"intro": "更新服务地址",
-		"host":"http://v1api.bible.vip",			
-		"url": "http://bible.vip"
+		"intro": "更新服务地址",		
+		"url": "http://v1api.bible.vip"
 	}
 }
