@@ -4,6 +4,7 @@
 	"data": {
 		"type": 0,
 		"intro": "更新服务地址",		
-		"url": "http://v1api.bible.vip"
+		"iosurl": "http://v1api.bible.vip",
+		"andurl": "http://v1api.bible.vip"
 	}
 }
